@@ -1,4 +1,3 @@
-
 # PHP Input Validation Library
 
 This is a simple PHP library that validates user input based on predefined rules. It supports multiple validation methods such as required fields, string lengths, matching fields, email format, numeric values, and many others.
