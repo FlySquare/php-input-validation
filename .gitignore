@@ -1,0 +1,11 @@
+.idea/
+*.iml
+/vendor/
+/tests/_output/
+phpunit.xml
+phpunit.xml.dist
+*.sess
+.DS_Store
+Thumbs.db
+*.log
+.env
